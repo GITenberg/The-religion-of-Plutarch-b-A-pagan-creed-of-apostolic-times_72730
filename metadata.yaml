@@ -1,5 +1,8 @@
 _repo: The-religion-of-Plutarch-b-A-pagan-creed-of-apostolic-times_72730
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72730-h/images/cover.jpg
 creator:
   author:
     agent_name: Oakesmith, John
@@ -9,6 +12,8 @@ description: Practically a reprint of the author's "Religion of Plutarch as expo
   in his 'Ethics,'" 1901. The difference consists mainly in the translation or removal
   of various quotations from Greek and Latin sources which were given in full in the
   first edition of the book. See introductory note in book.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72730#The-religion-of-Plutarch-b-A-pagan-creed-of-apostolic-times
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
